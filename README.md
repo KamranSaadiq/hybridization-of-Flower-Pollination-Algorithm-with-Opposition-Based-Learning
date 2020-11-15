@@ -1,0 +1,2 @@
+# hybridization-of-Flower-Pollination-Algorithm-with-Opposition-Based-Learning
+This Project is aimed at improving MPP Tracking of PV Modules. In this Project, I've hybridized a soft computing algorithm Flower Pollination Algorithm with a Machine Learning Algorithm Opposition Based Learning. This Hybridization is better in many ways 1)  its time efficient 2) its less complex 3) its searching ability is very accurate.  Its is very good when dealt with shading conditions.
